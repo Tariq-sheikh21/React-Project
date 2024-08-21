@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React.js Project: Counter, Event Handling, API Fetch, Dark/Light Mode, Custom Hook
 
 ## Description
@@ -32,3 +33,7 @@ This project demonstrates a simple counter, event handling, fetching data from a
 
 ## License
 This project is licensed under the MIT License.
+=======
+# React-Project
+React Project with Tailwind Css 
+>>>>>>> c70a50d32547cfc8419f786cdeafd0b7ec3dd727
